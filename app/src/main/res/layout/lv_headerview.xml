@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="130dp"
+    android:background="@color/listview_background">
+//    距离顶端的高度根据需要隐藏的head的高度定
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="50dp"
+        android:divider="#CFD3D2">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/g_x_b" />
+
+        <TextView
+            android:id="@+id/message_tv_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="80dp"
+            android:text="焦点新闻" />
+    </RelativeLayout>
+</FrameLayout>

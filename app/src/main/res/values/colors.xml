@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text30">#303030</color>
+    <color name="user_heart1">#3F51B5</color>
+
+    <color name="button_pressed">#999999</color>
+    <color name="buttom_normal">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="font_gray">#999999</color>
+    <color name="search_button_pressed">#64B3FE</color>
+    <color name="serch_button_normal">#3198FD</color>
+    <color name="refresh_circle">#D60B16</color>
+    <color name="text_gray">#D1D1D1</color>
+    <color name="text_black">#363636</color>
+    <color name="listview_background">#F2F6F9</color>
+</resources>
